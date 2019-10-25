@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Borger Kong</string>
+    <string name="dollar">$</string>
+    <string name="label"></string>
+    <string name="button">View Order</string>
+    <string name="num_order">View Order</string>
+
+
+</resources>
